@@ -1,4 +1,4 @@
-module ecc_go
+module github.com/nicabreon/ecc_go
 
 go 1.22.4
 
